@@ -8,7 +8,7 @@ function firstChar(str) {
   // If only spaces are found, return an empty string
   return '';
 }
-}
+
 
 // Do not change the code below
 //Uncomment the following line to show the prompt popup
